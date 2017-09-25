@@ -1,0 +1,6 @@
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.csprojResolveAssemblyReference.cache
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe.config
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ArrayListExample\ArrayListExample\bin\Debug\ArrayListExample.pdb
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.exe
+c:\users\oleksii.remizov\documents\visual studio 2017\Projects\ArrayListExample\ArrayListExample\obj\Debug\ArrayListExample.pdb
